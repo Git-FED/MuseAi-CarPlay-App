@@ -1,0 +1,14 @@
+// !$*UTF8*$!
+// Minimal project scaffold. Open in Xcode and set signing/team settings.
+{
+  archiveVersion = 1;
+  objectVersion = 56;
+  objects = {
+    PBXProject = { isa = PBXProject; attributes = { LastUpgradeCheck = 1500; }; buildConfigurationList = 000000000000000000000001; compatibilityVersion = "Xcode 14.0"; developmentRegion = en; hasScannedForEncodings = 0; knownRegions = ( en, Base ); mainGroup = 000000000000000000000002; productRefGroup = 000000000000000000000003; projectDirPath = ""; projectRoot = ""; targets = ( 000000000000000000000010 ); };
+    PBXGroup = { isa = PBXGroup; children = (); sourceTree = "<group>"; };
+    PBXNativeTarget = { isa = PBXNativeTarget; buildConfigurationList = 000000000000000000000011; buildPhases = (); buildRules = (); dependencies = (); name = MuseCarPlay; productName = MuseCarPlay; productReference = 000000000000000000000020; productType = "com.apple.product-type.application"; };
+    PBXFileReference = { isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MuseCarPlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+    XCConfigurationList = { isa = XCConfigurationList; buildConfigurations = (); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+  };
+  rootObject = 000000000000000000000000;
+}
